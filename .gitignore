@@ -1,0 +1,44 @@
+# IX-Shimizu Git Ignore File
+# Ensures no local system files or temporary logs get committed
+
+# Python-related
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE Files
+.vscode/
+.idea/
+
+# Log Files
+*.log
+
+# Environment Configs
+.env
+*.env
+
+# Backup Files
+*.bak
+*.swp
+*.swo
+
+# Deployment Files (local use only)
+deploy_config.yaml
+docker-compose.override.yml
+
+# Machine Learning/Analysis (if added later)
+*.ipynb_checkpoints
+
+# Temp Storage
+tmp/
+cache/
+
+# End of IX-Shimizu .gitignore
