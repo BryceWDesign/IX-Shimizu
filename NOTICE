@@ -1,0 +1,24 @@
+IX-Shimizu — NOTICE
+
+This project, including all software, documentation, and design files, is part of the IX-Shimizu initiative authored and maintained by:
+
+    Bryce Wooster
+
+All code and documentation in this repository are licensed under the Apache License, Version 2.0 with additional jurisdictional protections outlined in the LICENSE file.
+
+Third-party technologies and concepts referenced in the IX-Shimizu system are used solely under fair use, citation, or open standards compliance for the purpose of scientific advancement and public ecological benefit.
+
+This project contains **no copyrighted material**, **no proprietary trade secrets**, and is provided **entirely open-source** and **buildable by design**.
+
+No component of this repository may be reused for:
+- Military targeting systems
+- Commercial oil extraction for profit
+- Ocean dumping or chemical reinjection schemes
+
+This system is designed strictly for **ecological oil removal and remediation only.**
+
+Attribution of this project in derivative works or redistributions must state:
+
+> "This system was originally designed and authored by Bryce Wooster as part of the IX-Shimizu environmental technology initiative."
+
+For full legal protections, refer to the LICENSE file.
