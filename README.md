@@ -29,7 +29,7 @@ This project does not contain, imply, or claim use of classified, restricted, or
 
 ## Project Lead
 
-**Bryce Wooster**  
+**Bryce Lovell**  
 Lead System Designer & Open-Source Technology Advocate  
 (See LICENSE file for full legal and attribution details.)
 
