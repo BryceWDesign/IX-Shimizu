@@ -1,5 +1,5 @@
 IX-Shimizu Full Legal License — Version 1.0
-Author: Bryce Wooster
+Author: Bryce Lovell
 
 This license supersedes and expands upon standard open-source licenses by including additional clauses for jurisdictional enforcement, environmental usage limitations, and protection against misuse or misrepresentation.
 
@@ -9,7 +9,7 @@ SECTION A — COVERAGE AND OWNERSHIP
 
 This software, documentation, design, and all intellectual property contained within this repository are the original creation and property of:
 
-    Bryce Wooster
+    Bryce Lovell
 
 All rights not explicitly granted herein are reserved.
 
@@ -32,7 +32,7 @@ SECTION C — ATTRIBUTION REQUIREMENTS
 
 All public uses, distributions, or modifications must include:
 
-1. Attribution to "Bryce Wooster"
+1. Attribution to "Bryce Lovell"
 2. Visible reference to the original project name "IX-Shimizu"
 3. A copy of this license and the NOTICE file
 4. A clear disclaimer if any modifications were made to the original design
@@ -81,4 +81,4 @@ This license is permanent and irrevocable unless terminated by the original auth
 You are free. But not free to harm.
 
 Signed,  
-**Bryce Wooster**
+**Bryce Lovell**
